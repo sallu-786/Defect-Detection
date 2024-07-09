@@ -1,4 +1,4 @@
-1. Create new environment first in python, install dependencies from requirement.txt and run main.py
+1. Create new environment first in python, install dependencies from requirements.txt and run main.py
 
 2. Due to data privacy concerns i had to remove train and test data. 
 
