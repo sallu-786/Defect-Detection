@@ -6,4 +6,4 @@
 
 4. This code is specifically for industrial cameras. If you want to use your own camera please make canges accordingly
 
-5. Please read_me.txt file for details
+5. Please check Read_Me.txt file for details
