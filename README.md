@@ -1,3 +1,11 @@
+
+
+![Program_flow](https://github.com/user-attachments/assets/7b600c4b-2f8c-4876-821e-eae7e422708e)
+
+
+
+
+
 1. Create new environment first in python, install dependencies from requirements.txt and run main.py
 
 2. Due to data privacy concerns i had to remove train and test data. 
