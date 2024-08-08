@@ -17,7 +17,7 @@ from segmentation import loadPolyxy,shrink_poly,get_crop_area,make_mask,part_cro
     stabilizer_method,fillout_color,bounding_crop
 
 
-# GPUメモリ制限     allo Memory growth if GPU out overflows
+# GPUメモリ制限     allow Memory growth if GPU out overflows
 tf.config.set_soft_device_placement(True)
 devices = tf.config.experimental.list_physical_devices('GPU')
 for device in devices:
